@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <img src="Rocket_Q.png" alt="rocketq" />
+  <img src="rocket_q.png" alt="rocketq" />
 </p>
 
 ## 🚀 Tecnologias
